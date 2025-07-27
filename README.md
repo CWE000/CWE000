@@ -1,16 +1,23 @@
 ## Hi there 👋
+Trying to make the cyberworld better.
 
-<!--
-**CWE000/CWE000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# CWE Lab Progress
 
-Here are some ideas to get you started:
+## Day 1
+- Created GitHub profile: [github.com/CWE000](https://github.com/CWE000)
+- Created X account: [@CWE000](https://x.com/CWE000)
+- Installed VirtualBox
+- Installed Ubuntu Server (VirtualBox VM)
+- Recorded initial tutorial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Day 2
+- Created YouTube channel: [@CWE000](https://www.youtube.com/@CWE000)
+- Posted first tutorial
+
+## Next Steps
+- Update system packages on Ubuntu Server
+- Configure SSH access with a new user
+- Install and configure Wazuh Manager
+- Record detailed tutorial (VirtualBox + Ubuntu + Wazuh)
+
+Follow my journey! #CyberSec #CWE000
