@@ -1,18 +1,17 @@
 ## Hi there 👋
-Trying to make the cyberworld better.
+I'm CWE000, working to make the cyberworld better!
 
 # CWE Lab Progress
 
-## Day 1
+## Completed Tasks
 - Created GitHub profile: [github.com/CWE000](https://github.com/CWE000)
 - Created X account: [@CWE000](https://x.com/CWE000)
+- Created YouTube channel: [@CWE000](https://www.youtube.com/@CWE000)
 - Installed VirtualBox
 - Installed Ubuntu Server (VirtualBox VM)
-- Recorded initial tutorial
-
-## Day 2
-- Created YouTube channel: [@CWE000](https://www.youtube.com/@CWE000)
-- Posted first tutorial
+- Recorded & posted tutorial "How to Install VirtualBox and Ubuntu Server": [YouTube](https://www.youtube.com/watch?v=your_ubuntu_video_link)
+- Installed Kali Linux
+- Recorded & posted tutorial "How to Install Kali Linux on VM": [YouTube](https://youtu.be/dPpU618BW_I) | [GitHub](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20Kali%20Linux%20on%20VM)
 
 ## Next Steps
 - Update system packages on Ubuntu Server
@@ -20,4 +19,6 @@ Trying to make the cyberworld better.
 - Install and configure Wazuh Manager
 - Record detailed tutorial (VirtualBox + Ubuntu + Wazuh)
 
-Follow my journey! #CyberSec #CWE000
+## Follow My Journey!
+Check out my latest updates and tutorials!  
+#CyberSec #KaliLinux #VirtualBox #Wazuh #CWE000
