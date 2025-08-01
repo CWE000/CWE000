@@ -9,9 +9,9 @@ I'm CWE000, working to make the cyberworld better!
 - Created YouTube channel: [@CWE000](https://www.youtube.com/@CWE000)
 - Installed VirtualBox
 - Installed Ubuntu Server (VirtualBox VM)
-- Recorded & posted tutorial "How to Install VirtualBox and Ubuntu Server": [YouTube](https://www.youtube.com/watch?v=your_ubuntu_video_link)
+- Recorded & posted tutorial "How to Install VirtualBox and Ubuntu Server": [YT Link](https://youtu.be/uRVzc4b8etE)
 - Installed Kali Linux
-- Recorded & posted tutorial "How to Install Kali Linux on VM": [YouTube](https://youtu.be/dPpU618BW_I) | [GitHub](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20Kali%20Linux%20on%20VM)
+- Recorded & posted tutorial "How to Install Kali Linux on VM": [YT_Link](https://youtu.be/dPpU618BW_I) | [GitHub_Link](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20Kali%20Linux%20on%20VM)
 
 ## Next Steps
 - Update system packages on Ubuntu Server
