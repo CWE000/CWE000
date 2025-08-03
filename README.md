@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm CWE000, working to make the cyberworld better!
 
-# CWE Lab Progress
+# CyberWorldEntity Progress
 
 ## Completed Tasks
 - Created GitHub profile: [github.com/CWE000](https://github.com/CWE000)
