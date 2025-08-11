@@ -15,7 +15,7 @@ Video Tutorials:
 - ✅ Recorded & posted tutorial "How to Install VirtualBox and Ubuntu Server" [YT Link](https://youtu.be/uRVzc4b8etE) [GitHub_Link](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20VirtualBox%20and%20Ubuntu%20Server)
 - ✅ Recorded & posted tutorial "How to Install Kali Linux on VM"  [YT_Link](https://youtu.be/dPpU618BW_I) | [GitHub_Link](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20Kali%20Linux%20on%20VM)
 - ✅ Recorded & posted tutorial "Ultimate Guide to Your First Wazuh Lab (VirtualBox & Ubuntu Setup)"  [YT_Link](https://youtu.be/SlKmyVaq538) | [GitHub_Link](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20Ubuntu%20Server%20and%20Wazuh%20SIEM)
-- ✅ Recorded & posted tutorial "Expanding Your Security Lab Windows 11 Endpoint Monitoring with Wazuh"  [YT_Link](https://youtu.be/pf70vqJoqbg) | [GitHub_Link](https://github.com/CWE000/Tutorials/blob/main/How%20to%20Install%20Ubuntu%20Server%20and%20Wazuh%20SIEM)
+- ✅ Recorded & posted tutorial "Expanding Your Security Lab Windows 11 Endpoint Monitoring with Wazuh"  [YT_Link](https://youtu.be/pf70vqJoqbg) | [GitHub_Link](https://github.com/CWE000/Tutorials/blob/main/How%20To%20Install%20Windows%2011%20VM%20and%20Setup%20Wazuh%20Agent)
 
 
 - ✅ Installed VirtualBox
