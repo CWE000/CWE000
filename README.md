@@ -5,7 +5,7 @@ I'm CWE000, working to make the cyberworld better!
 
 #### Completed Tasks
 ## 🌐 Socials:
-- ✅ Created GitHub profile: 🔗  [github.com/CWE000](https://github.com/CWE000)
+- ✅ Created GitHub profile: 🔗  [@CWE000](https://github.com/CWE000)
 - ✅ Created X account: 🔗  [@CWE000](https://x.com/CWE000)
 - ✅ Created YouTube channel: 🔗  [@CWE000](https://www.youtube.com/@CWE000)
 - ✅ Created Instagram account: 🔗  [@CWE000](https://www.instagram.com/cwe000/)
