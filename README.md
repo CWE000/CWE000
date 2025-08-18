@@ -46,6 +46,10 @@ For collaborations, questions, or feedback, please use my [Secure Contact Form](
 #### Next Steps
 - ➡️ Explore other Wazuh capabilities like Security Configuration Assessment (SCA).
 - ➡️ Research & Execute a Local Privilege Escalation (LPE) Exploit
+- ➡️ Configure Wazuh Active Response to automatically block attacker IPs.
+- ➡️ Expand the lab with a vulnerable web server (e.g., OWASP Juice Shop).
+- ➡️ Simulate web application attacks like SQL Injection and Cross-Site Scripting (XSS).
+- ➡️ Learn to write custom Wazuh rules and decoders to detect unique events.
 - ➡️ Create new, advanced tutorials based on these findings.
   
 ### Follow My Journey!
